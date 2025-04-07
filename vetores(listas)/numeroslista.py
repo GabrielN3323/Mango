@@ -6,6 +6,6 @@ terceiro = numeros[2] #30
 
 ultimo = numeros[-1] #50
 
-nao = numeros[3]
+nao = numeros[5]
 
-print()
+print(nao)
