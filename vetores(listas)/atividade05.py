@@ -1,5 +1,4 @@
 itens = []
-
 while True:
     pedir = input('insira algo: ')
     if pedir == 'fim':
