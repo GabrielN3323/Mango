@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40739905-bfbc-493d-b475-3b458af2e5ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aulas.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/while/while01.py" beforeDir="false" afterPath="$PROJECT_DIR$/while/while01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/exemplo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/234" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,34 +37,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.atividade01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.avtividade03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplo02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplo03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplo04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplo05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.minha_primeira_lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numeroslista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vetor01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vetores01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while 05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while08.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.atividade01.executor": "Run",
+    "Python.atividade02.executor": "Run",
+    "Python.atividade04.executor": "Run",
+    "Python.atividade05.executor": "Run",
+    "Python.avtividade03.executor": "Run",
+    "Python.exemplo.executor": "Run",
+    "Python.exemplo01.executor": "Run",
+    "Python.exemplo02.executor": "Run",
+    "Python.exemplo03.executor": "Run",
+    "Python.exemplo04.executor": "Run",
+    "Python.exemplo05.executor": "Run",
+    "Python.minha_primeira_lista.executor": "Run",
+    "Python.numeroslista.executor": "Run",
+    "Python.sla.executor": "Run",
+    "Python.vetor01.executor": "Run",
+    "Python.vetores01.executor": "Run",
+    "Python.while 05.executor": "Run",
+    "Python.while01.executor": "Run",
+    "Python.while02.executor": "Run",
+    "Python.while03.executor": "Run",
+    "Python.while04.executor": "Run",
+    "Python.while06.executor": "Run",
+    "Python.while07.executor": "Run",
+    "Python.while08.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\2384\Desktop\aulas\vetores(listas)" />
