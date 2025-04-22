@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40739905-bfbc-493d-b475-3b458af2e5ea" name="Changes" comment="" />
+    <list default="true" id="40739905-bfbc-493d-b475-3b458af2e5ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/matrix/exemplo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix/exemplo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/abc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/matrix.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +56,7 @@
     "Python.exemplo03.executor": "Run",
     "Python.exemplo04.executor": "Run",
     "Python.exemplo05.executor": "Run",
+    "Python.matrix.executor": "Run",
     "Python.minha_primeira_lista.executor": "Run",
     "Python.numeroslista.executor": "Run",
     "Python.sla.executor": "Run",
