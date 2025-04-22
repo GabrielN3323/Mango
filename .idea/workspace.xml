@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40739905-bfbc-493d-b475-3b458af2e5ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exemplos/cadastroPet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/abc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vetores(listas)/atividade06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vetores(listas)/atividade07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/cadastroPet.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/cadastroPet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -36,10 +41,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.atividade01.executor": "Run",
     "Python.atividade02.executor": "Run",
     "Python.atividade04.executor": "Run",
     "Python.atividade05.executor": "Run",
+    "Python.atividade06.executor": "Run",
+    "Python.atividade07.executor": "Run",
     "Python.avtividade03.executor": "Run",
     "Python.cadastroPet.executor": "Run",
     "Python.exemplo.executor": "Run",
@@ -62,7 +70,7 @@
     "Python.while07.executor": "Run",
     "Python.while08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">

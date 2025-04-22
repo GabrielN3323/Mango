@@ -33,11 +33,12 @@ while True:
 
          elif opções == "Remover nome":
 
+             nomePet = input('qual pet voce quuer remover?')
+
              removerPet(nomePet)
 
          elif opções == "listar nome":
-             listaNomePet()
-
+             listarPet()
          else:
              print('invalido')
              break
