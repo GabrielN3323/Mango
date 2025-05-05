@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40739905-bfbc-493d-b475-3b458af2e5ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Funções/Atividade 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/Atividade 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/atividade 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/exemplo 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/exemplo 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/exemplo 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/exemplo 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/exemplo 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/funcao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funções/atividade 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funções/exemplo 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funções/exemplo 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funções/exemplo 8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +45,7 @@
     "Python.Atividade 1.executor": "Run",
     "Python.Atividade 2.executor": "Run",
     "Python.atividade 3.executor": "Run",
+    "Python.atividade 4.executor": "Run",
     "Python.atividade01.executor": "Run",
     "Python.atividade02.executor": "Run",
     "Python.atividade04.executor": "Run",
@@ -63,6 +59,9 @@
     "Python.exemplo 3.executor": "Run",
     "Python.exemplo 4.executor": "Run",
     "Python.exemplo 5.executor": "Run",
+    "Python.exemplo 6.executor": "Run",
+    "Python.exemplo 7.executor": "Run",
+    "Python.exemplo 8.executor": "Run",
     "Python.exemplo.executor": "Run",
     "Python.exemplo01.executor": "Run",
     "Python.exemplo02.executor": "Run",
@@ -85,7 +84,7 @@
     "Python.while07.executor": "Run",
     "Python.while08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
   <component name="RecentsManager">
