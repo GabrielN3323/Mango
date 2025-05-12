@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40739905-bfbc-493d-b475-3b458af2e5ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Funções/atividade 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/exemplo 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/exemplo 7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funções/exemplo 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk inter/atividade 01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk inter/atividade 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk inter/criarnome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk inter/gridtkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk inter/tk.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.Atividade 1.executor": "Run",
     "Python.Atividade 2.executor": "Run",
+    "Python.atividade 01.executor": "Run",
+    "Python.atividade 02.executor": "Run",
+    "Python.atividade 1.executor": "Run",
     "Python.atividade 3.executor": "Run",
     "Python.atividade 4.executor": "Run",
     "Python.atividade01.executor": "Run",
@@ -54,6 +58,7 @@
     "Python.atividade07.executor": "Run",
     "Python.avtividade03.executor": "Run",
     "Python.cadastroPet.executor": "Run",
+    "Python.criarnome.executor": "Run",
     "Python.exemplo 1.executor": "Run",
     "Python.exemplo 2.executor": "Run",
     "Python.exemplo 3.executor": "Run",
@@ -69,10 +74,12 @@
     "Python.exemplo04.executor": "Run",
     "Python.exemplo05.executor": "Run",
     "Python.funcao.executor": "Run",
+    "Python.gridtkinter.executor": "Run",
     "Python.matrix.executor": "Run",
     "Python.minha_primeira_lista.executor": "Run",
     "Python.numeroslista.executor": "Run",
     "Python.sla.executor": "Run",
+    "Python.tk.executor": "Run",
     "Python.vetor01.executor": "Run",
     "Python.vetores01.executor": "Run",
     "Python.while 05.executor": "Run",
@@ -84,7 +91,7 @@
     "Python.while07.executor": "Run",
     "Python.while08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
